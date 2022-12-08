@@ -40,7 +40,7 @@ public:
 				}
 				else
 				{
-					cout << "So pspsps... that is not the correct answer!" << endl;
+					cout << "Oops! That is not the correct answer." << endl;
 
 					// Subtract life point
 					life--;
